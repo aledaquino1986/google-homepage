@@ -94,6 +94,7 @@ main {
   border: 0.1px solid lightgray;
   margin-bottom: 20px;
   width: 560px;
+  padding: 5px;
 }
 
 .main-search-bar input {
@@ -120,6 +121,8 @@ main {
   outline: none;
   border-color: transparent;
   font-size: 14px;
+  border-radius: 5px;
+  color: rgb(118, 116, 116);
 }
 
 .button:hover {
